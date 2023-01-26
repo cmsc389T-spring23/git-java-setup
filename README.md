@@ -17,3 +17,5 @@ Wyatt Scott
 Tyler Pettway
 
 Michael Tang
+
+Jasneet Kaur
