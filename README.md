@@ -23,3 +23,5 @@ Jasneet Kaur
 Brian Lau
 
 Jason Devers
+
+Kane Hsu
