@@ -22,4 +22,8 @@ Jasneet Kaur
 
 Brian Lau
 
-Jason Werneth
+Jason Devers
+
+Kane Hsu
+
+Tom Dai
