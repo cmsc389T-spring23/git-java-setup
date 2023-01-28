@@ -25,3 +25,5 @@ Brian Lau
 Jason Devers
 
 Kane Hsu
+
+Tom Dai
