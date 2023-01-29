@@ -21,3 +21,13 @@ Michael Tang
 Jasneet Kaur
 
 Mahinsa Bambarende
+
+Brian Lau
+
+Jason Devers
+
+Kane Hsu
+
+Tom Dai
+
+Jason Werneth
