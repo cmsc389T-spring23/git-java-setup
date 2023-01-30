@@ -31,3 +31,6 @@ Kane Hsu
 Tom Dai
 
 Jason Werneth
+
+Jason Soo
+
