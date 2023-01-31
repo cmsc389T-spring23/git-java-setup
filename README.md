@@ -43,3 +43,5 @@ Ayhan Eyikan
 Ritvik Yaragudipati
 
 Ashley Didriksen
+
+Gayathri Krishnan
